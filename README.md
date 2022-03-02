@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# kubectl tree my forked one
+# kubectl tree my forked one test
 
 A kubectl plugin to explore ownership relationships between Kubernetes objects
 through `ownersReferences` on the objects.
